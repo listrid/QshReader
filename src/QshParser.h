@@ -30,8 +30,8 @@ enum QshParser_DealType  { DealType_Unknown = 0, DealType_Buy, DealType_Sell };
 enum QshParser_OwnOrderType
 {
     OwnOrderType_None = 0, // все заявки были сняты
-    OwnOrderType_Regular, //
-    OwnOrderType_Stop     // снята
+    OwnOrderType_Regular,  //
+    OwnOrderType_Stop      // снята
 };
 enum QshParser_MessageType { MessageType_None = 0, MessageType_Info, MessageType_Warning, MessageType_Error };
 
