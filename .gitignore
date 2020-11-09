@@ -1,0 +1,12 @@
+/Debug/
+/Release/
+/.vs/
+CapsHot.sdf
+CapsHot.tss
+CapsHot.v11.suo
+CapsHot.opensdf
+*.user
+*.aps
+
+
+
