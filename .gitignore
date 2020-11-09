@@ -1,10 +1,10 @@
 /Debug/
 /Release/
 /.vs/
-CapsHot.sdf
-CapsHot.tss
-CapsHot.v11.suo
-CapsHot.opensdf
+*.sdf
+*.tss
+*.v11.suo
+*.opensdf
 *.user
 *.aps
 
